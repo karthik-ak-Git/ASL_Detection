@@ -1,0 +1,4 @@
+2025-08-17 15:27:26,245 | INFO | predict_image | Predicting on device=cuda
+2025-08-17 15:27:27,074 | INFO | predict_image | Predicted A (1.000) for dataset/test/A/A_test.jpg
+2025-08-17 15:27:39,776 | INFO | predict_image | Predicting on device=cuda
+2025-08-17 15:27:40,493 | INFO | predict_image | Predicted space (1.000) for dataset/test/space/space_test.jpg

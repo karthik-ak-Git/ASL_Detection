@@ -1,0 +1,3 @@
+source,prediction,confidence
+dataset/test/A/A_test.jpg,A,0.999826
+dataset/test/space/space_test.jpg,space,0.999994

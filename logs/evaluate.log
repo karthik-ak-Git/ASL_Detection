@@ -1,0 +1,11 @@
+2025-08-08 22:07:27,702 | INFO | evaluate | Starting evaluation on device=cuda
+2025-08-08 22:07:28,689 | INFO | evaluate | Flat eval done at 'dataset\asl_alphabet_test\asl_alphabet_test': files=28, correct=28, acc=100.00%
+2025-08-08 22:07:28,690 | INFO | evaluate | Test Accuracy: 100.00% (flat test)
+2025-08-17 15:17:12,458 | INFO | evaluate | Starting evaluation on device=cuda
+2025-08-17 15:17:13,347 | INFO | evaluate | Test Accuracy: 3.57%
+2025-08-17 15:17:13,348 | INFO | evaluate | Macro F1-Score: 0.0025
+2025-08-17 15:17:14,675 | INFO | evaluate | Saved metrics and confusion matrix
+2025-08-17 15:25:55,510 | INFO | evaluate | Starting evaluation on device=cuda
+2025-08-17 15:25:57,251 | INFO | evaluate | Test Accuracy: 92.86%
+2025-08-17 15:25:57,252 | INFO | evaluate | Macro F1-Score: 0.8966
+2025-08-17 15:25:58,559 | INFO | evaluate | Saved metrics and confusion matrix

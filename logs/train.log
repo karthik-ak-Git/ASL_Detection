@@ -1,0 +1,53 @@
+2025-08-08 21:20:32,257 | INFO | train | Using device: cuda
+2025-08-08 21:20:32,260 | INFO | train | GPU Name: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+2025-08-08 21:25:43,787 | INFO | train | Epoch 1: loss=190.8029, train_acc=97.63%
+2025-08-08 21:27:28,760 | INFO | train | Epoch 1: val_acc=94.78%
+2025-08-08 21:27:28,841 | INFO | train | New best model: 94.78% saved to outputs/best_model.pth
+2025-08-08 21:31:24,931 | INFO | train | Epoch 2: loss=81.3151, train_acc=99.00%
+2025-08-08 21:32:01,030 | INFO | train | Epoch 2: val_acc=99.97%
+2025-08-08 21:32:01,107 | INFO | train | New best model: 99.97% saved to outputs/best_model.pth
+2025-08-08 21:35:53,158 | INFO | train | Epoch 3: loss=68.0514, train_acc=99.14%
+2025-08-08 21:36:16,869 | INFO | train | Epoch 3: val_acc=99.05%
+2025-08-08 21:40:08,271 | INFO | train | Epoch 4: loss=48.6667, train_acc=99.44%
+2025-08-08 21:40:32,061 | INFO | train | Epoch 4: val_acc=98.59%
+2025-08-08 21:44:23,613 | INFO | train | Epoch 5: loss=41.3092, train_acc=99.52%
+2025-08-08 21:44:51,578 | INFO | train | Epoch 5: val_acc=99.02%
+2025-08-08 21:48:43,335 | INFO | train | Epoch 6: loss=7.6646, train_acc=99.95%
+2025-08-08 21:49:10,679 | INFO | train | Epoch 6: val_acc=99.58%
+2025-08-08 21:53:02,887 | INFO | train | Epoch 7: loss=17.4419, train_acc=99.86%
+2025-08-08 21:53:30,557 | INFO | train | Epoch 7: val_acc=100.00%
+2025-08-08 21:53:30,620 | INFO | train | New best model: 100.00% saved to outputs/best_model.pth
+2025-08-08 21:57:22,253 | INFO | train | Epoch 8: loss=17.2666, train_acc=99.83%
+2025-08-08 21:57:46,339 | INFO | train | Epoch 8: val_acc=100.00%
+2025-08-08 22:01:37,858 | INFO | train | Epoch 9: loss=16.9146, train_acc=99.84%
+2025-08-08 22:02:01,744 | INFO | train | Epoch 9: val_acc=100.00%
+2025-08-08 22:05:53,260 | INFO | train | Epoch 10: loss=14.9315, train_acc=99.87%
+2025-08-08 22:06:21,734 | INFO | train | Epoch 10: val_acc=99.41%
+2025-08-08 22:06:21,734 | INFO | train | Training complete.
+2025-08-17 14:12:37,522 | INFO | train | Using device: cuda
+2025-08-17 14:12:37,528 | INFO | train | GPU Name: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+2025-08-17 14:12:37,826 | INFO | train | Saved class mappings: 29 classes
+2025-08-17 14:20:31,968 | INFO | train | Epoch 1: loss=194.9642, train_acc=97.57%
+2025-08-17 14:23:11,678 | INFO | train | Epoch 1: val_acc=99.05%
+2025-08-17 14:23:11,766 | INFO | train | New best model: 99.05% saved to D:\ASL_Detection\outputs\best_model.pth
+2025-08-17 14:31:09,010 | INFO | train | Epoch 2: loss=87.4833, train_acc=98.92%
+2025-08-17 14:33:32,524 | INFO | train | Epoch 2: val_acc=97.80%
+2025-08-17 14:40:33,239 | INFO | train | Epoch 3: loss=59.9597, train_acc=99.27%
+2025-08-17 14:42:50,973 | INFO | train | Epoch 3: val_acc=98.79%
+2025-08-17 14:48:00,757 | INFO | train | Epoch 4: loss=49.7868, train_acc=99.41%
+2025-08-17 14:50:08,035 | INFO | train | Epoch 4: val_acc=99.96%
+2025-08-17 14:50:08,091 | INFO | train | New best model: 99.96% saved to D:\ASL_Detection\outputs\best_model.pth
+2025-08-17 14:54:02,363 | INFO | train | Epoch 5: loss=41.6401, train_acc=99.54%
+2025-08-17 14:54:33,445 | INFO | train | Epoch 5: val_acc=98.71%
+2025-08-17 14:58:27,898 | INFO | train | Epoch 6: loss=40.7482, train_acc=99.52%
+2025-08-17 14:58:53,337 | INFO | train | Epoch 6: val_acc=100.00%
+2025-08-17 14:58:53,390 | INFO | train | New best model: 100.00% saved to D:\ASL_Detection\outputs\best_model.pth
+2025-08-17 15:02:48,795 | INFO | train | Epoch 7: loss=30.0974, train_acc=99.68%
+2025-08-17 15:03:14,539 | INFO | train | Epoch 7: val_acc=99.09%
+2025-08-17 15:07:11,107 | INFO | train | Epoch 8: loss=34.8509, train_acc=99.61%
+2025-08-17 15:07:37,362 | INFO | train | Epoch 8: val_acc=99.49%
+2025-08-17 15:11:36,517 | INFO | train | Epoch 9: loss=28.9995, train_acc=99.69%
+2025-08-17 15:12:04,718 | INFO | train | Epoch 9: val_acc=99.86%
+2025-08-17 15:15:58,964 | INFO | train | Epoch 10: loss=4.9849, train_acc=99.97%
+2025-08-17 15:16:25,158 | INFO | train | Epoch 10: val_acc=99.99%
+2025-08-17 15:16:25,159 | INFO | train | Training complete.
